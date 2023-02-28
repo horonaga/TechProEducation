@@ -2,3 +2,4 @@ Başlangıç
 İkinci metin bilgisi girildi.
 İkinci değişiklik yapıldı.
 GitHub'da iken bir değişiklik yaptık.
+Github'da başka değşiklikler yaptık
