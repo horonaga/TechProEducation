@@ -1,4 +1,4 @@
 Başlangıç
 İkinci metin bilgisi girildi.
 İkinci değişiklik yapıldı.
-GitHub'da bir değişiklik yaptık.
+GitHub'da iken bir değişiklik yaptık.
